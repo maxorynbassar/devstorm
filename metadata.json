@@ -1,0 +1,5 @@
+{
+  "name": "FraudDetect 2.0",
+  "description": "An intelligent assistant for detecting fraudulent financial transactions using Google Gemini.",
+  "requestFramePermissions": []
+}
